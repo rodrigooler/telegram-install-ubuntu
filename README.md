@@ -14,14 +14,14 @@
 </p>
 
 <p align="center">
-  Script Telegram installation of automation for ubuntu linux users. — Edit
+  Telegram is a multiplatform application instant messenger with your client open source and proprietary software on servers, with its focus on security and privacy.
+  In addition to text messages encrypted and optionally self-destructive, users can upload photos, videos and documents (all file types supported).
 </p>
 
 ## Usage
 
-
 ### Install
 Run this from your terminal:
 ```
-$ wget -O- hthttps://raw.githubusercontent.com/RodrigoOler/telegram-install-ubuntu/master/telegram-install-ubuntu.sh | sh
+wget -O- https://raw.githubusercontent.com/RodrigoOler/telegram-install-ubuntu/master/telegram-install-ubuntu.sh | sh
 ```

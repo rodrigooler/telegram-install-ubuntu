@@ -23,5 +23,5 @@
 ### Install
 Run this from your terminal:
 ```
-wget -O- https://raw.githubusercontent.com/RodrigoOler/telegram-install-ubuntu/master/telegram-install-ubuntu.sh | sh
+wget -O- http://goo.gl/ECHlUH | sh
 ```

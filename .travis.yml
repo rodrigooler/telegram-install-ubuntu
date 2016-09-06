@@ -1,4 +1,7 @@
 language: bash
 
 before_script:
-    - wget -O- https://raw.githubusercontent.com/RodrigoOler/telegram-install-ubuntu/master/telegram-install-ubuntu.sh | sh
+    - curl -L "https://raw.githubusercontent.com/RodrigoOler/telegram-install-ubuntu/master/telegram-install-ubuntu.sh"
+
+script:
+    - bash telegram-install-ubuntu.sh
